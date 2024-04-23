@@ -1,3 +1,3 @@
-# MySQL Book
+# MySQL Reference
 
-> 参考书籍
+> 参考资料
