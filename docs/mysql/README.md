@@ -1,3 +1,1 @@
-# Mysql
-
-> MySQL Notes
+# MySQL
